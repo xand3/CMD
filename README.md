@@ -1,9 +1,5 @@
 # Como usar o Git + alguns comandos do CMD
 
-
-### Conteúdo do Curso de Git/GitHub da B7Web
-_Anotações feitas por mim_
-
 ### Para começar o que é o CMD? e alguns comandos úteis para navegação
 
 O CMD, Prompt de Comando ou até terminal é um programa de linha de comando presente na maioria das versões do Windows, e também 
