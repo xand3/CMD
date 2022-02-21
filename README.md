@@ -1,6 +1,6 @@
-# Como usar o Git + alguns comandos do CMD
+# Alguns comandos do CMD
 
-### Para começar o que é o CMD? e alguns comandos úteis para navegação
+### Para começar o que é o CMD? 
 
 O CMD, Prompt de Comando ou até terminal é um programa de linha de comando presente na maioria das versões do Windows, e também 
 em outros sistemas operacioanis como macOS e nas diversas distribuições Linux, no CMD é possível fazer instalações, configurações, 
@@ -30,4 +30,7 @@ Por padrão quando se abre o CMD a pasta apresentada é a de seu usuário
 * Para criar uma pasta usa-se o comando: `mkdir NomeParaPasta`
 
 * Para limpar a tela do CMD usa-se o comando: `cls`
+
+Esses foram alguns dos comandos mais importantes para usar o CMD.
+
 
